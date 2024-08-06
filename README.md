@@ -1,4 +1,4 @@
-# todoapp
+# To Do App
 
 A simple and intuitive To-Do List app built with Flutter.
 
