@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "To Do",
       debugShowCheckedModeBanner: false,
       home: HomePage(),
       theme: ThemeData(primarySwatch: Colors.grey, useMaterial3: false),
