@@ -1,6 +1,6 @@
 import 'package:hive_flutter/hive_flutter.dart';
 
- class ToDoDataBase {
+class ToDoDataBase {
   List todoList = [];
 
   // reference the box
